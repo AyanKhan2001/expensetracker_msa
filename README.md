@@ -2,6 +2,10 @@
 
 Expense Tracker by Ayan
 
+1. Implemented fl_charts package for shwoing expense and income chart
+2. Google Auth Flow using Firebase
+3. Set state state manangement
+
 ![Screenshot_2024-05-22-00-49-14-03_fdfc2561477fe689aa988c5783309a80](https://github.com/AyanKhan2001/expensetracker_msa/assets/91601194/c67890e8-9412-48f1-9fa2-f4ee3ed007bd)
 ![Screenshot_2024-05-22-00-49-16-67_fdfc2561477fe689aa988c5783309a80](https://github.com/AyanKhan2001/expensetracker_msa/assets/91601194/0bb5845c-5ffa-42de-982e-2346e96611a3)
 ![Screenshot_2024-05-22-00-49-30-49_fdfc2561477fe689aa988c5783309a80](https://github.com/AyanKhan2001/expensetracker_msa/assets/91601194/c171e1fa-ef31-4eb6-9b1e-9f3efa6fd46a)
